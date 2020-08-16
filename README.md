@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Computer Vision & Robotics Problems
+<!--- - 🔭 I’m currently working on ... Computer Vision & Robotics Problems --->
 - 🌱 I’m currently learning ... Data Structures & Algorithms
 - 👯 I’m looking to collaborate on ... Projects in Robotics
 - 🤔 I’m looking for help in ... job hunt!
