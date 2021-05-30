@@ -8,8 +8,9 @@
 - 📫 How to reach me: ... sameeerpusegaonkar(at)gmail(dot)com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Ich lerne Deutsch!
-
+<!--
 <img align="left" alt="SamPusegaonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sampusegaonkar&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=prs&include_all_commits=true" />
+
 
 ### Languages and Tools:
 [<img align="left" alt="Tensorflow" width="26px" src="https://user-images.githubusercontent.com/12711480/89264881-4c5bc880-d651-11ea-8799-c3529553fc8c.jpg" />](https://github.com/SamPusegaonkar/shuttle)
@@ -26,4 +27,4 @@
 [<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">](https://github.com/SamPusegaonkar/AttendanceManager)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/SamPusegaonkar/CourtRoomDatabase)
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://github.com/SamPusegaonkar/CourtRoomDatabase)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](https://code.visualstudio.com/) -->
